@@ -37,7 +37,9 @@ class ManagerAuthGate extends StatelessWidget {
                 padding: EdgeInsets.only(top: 16),
                 child: Text(
                   'By signing in, you agree to our terms and conditions of our shopping services.',
-                  style: TextStyle(color: Colors.grey),
+                  style: TextStyle(color: Colors.black
+
+),
                 ),
               );
             },
